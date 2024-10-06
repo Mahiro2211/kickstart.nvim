@@ -1,4 +1,5 @@
-# kickstart.nvim
+# kickstart.nvim 
+## 配置文件已经被修改了，这个是我的nvim配置，但是我很菜，配置的不是很好。
 
 ## Introduction
 
